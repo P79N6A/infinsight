@@ -9,6 +9,15 @@ This is a brief introduction of Inspector, please visit [english wiki](https://y
 
 # Usage
 ---
+
+**[Important]**
+
+Please Clone the **develop branch**
+
+[*git clone -b develop https://github.com/aliyun/infinsight.git*]
+
+---
+
 **Dependency**
 > Infinsight depends on **MongoDB** for config management and data persistence, and depends on **Grafana** for data visualization.
 > 
